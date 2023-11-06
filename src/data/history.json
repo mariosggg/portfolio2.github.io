@@ -1,0 +1,38 @@
+[
+  {
+    "role": "(IT Officer",
+    "organisation": "National sports Center, EAKH",
+    "startDate": "20-6-2022",
+    "endDate": "30-6-2023",
+    "experiences": [
+      "Handling and updating the protocol of EAKH",
+      "Troubleshooting and diagnosing possible hardware, software, and network issues OF EAKH",
+      "Registrations and Renewals of EAKH athletes cards"
+    ],
+    "imageSrc": "history/Eakh.jpg"
+  },
+  {
+    "role": "R & D ENGINEER ",
+    "organisation": "COMPUTATIONAL BIOMEDICINE LABORATORY(INTERNSHIP AND THESIS)",
+    "startDate": "1-11-2016",
+    "endDate": "31-12-2018",
+    "experiences": [
+      "Implementing a platform for eHealth Smart Analytics",
+      "Implementing the ShinyAnonymizer Application"
+    ],
+    "imageSrc": "history/ITE.jpg"
+  },
+  {
+    "role": "Computer and Network Technician Intern",
+    "organisation": "University of Medical School",
+    "startDate": "1-11-2009",
+    "endDate": "30-4-2010",
+    "experiences": [
+      "Setup Hardware and Install and Configure Software and Drivers",
+      "Perform Regular Upgrades to ensure systems remain update",
+      "Maintain and Repair Technological equipment or peripheral devices",
+      "Troubleshoot system failures or bugs and provide solutions to restore functionality"
+    ],
+    "imageSrc": "history/Medical.jpg"
+  }
+]

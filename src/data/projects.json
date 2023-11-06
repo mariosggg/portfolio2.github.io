@@ -1,0 +1,42 @@
+[
+  {
+    "title": "ShinyAnonymizer",
+    "imageSrc": "projects/ShinyAnonymizer.png",
+    "description": "A Tool for Anonymizing Health Data in which non-expert users can utilize and combine  privacy models ",
+    "skills": [
+      "R",
+      "R-studio",
+      "Shiny",
+      "Plotly",
+      "Postgresql",
+      "PgCrypto",
+      "dplyr"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mariosggg/ShinyAnonymizer"
+  },
+  {
+    "title": "Epsilon Ontology Evaluation System",
+    "imageSrc": "projects/Epsilon.png",
+    "description": "An online Evaluation system that shows metrics ,statistics and pitfalls of Ontologies.",
+    "skills": ["Html", "Css", "Javascript", "Rdf", "Scss"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mariosggg/Epsilon_Ontology_Evaluation_System"
+  },
+  {
+    "title": "Tourism and Disability",
+    "imageSrc": "projects/Tourism.jpg",
+    "description": "An online platform for people with Disabilities.In Thins platform people with Disabilities have easy access in different places in Heraklion Crete",
+    "skills": ["Html", "Css", "Javascript", "Php"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mariosggg/Project_Amea"
+  },
+  {
+    "title": "BitcoinDashboard",
+    "imageSrc": "projects/BitcoinDashboard.jpg",
+    "description": "This Bitcoin Dashboard analyze and visualize the bitcoin data by Day , Hour and Week.",
+    "skills": ["R", "R-studio", "Shiny", "Plotly"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/mariosggg/BitcoinDashboard"
+  }
+]
